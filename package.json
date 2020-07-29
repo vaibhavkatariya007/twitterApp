@@ -5,9 +5,7 @@
   "private": false,
   "dependencies": {
     "antd": "^3.23.2",
-    "axios": "^0.19.0",
     "dayjs": "^1.8.27",
-    "moment": "^2.24.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-redux": "^7.1.1",
@@ -15,7 +13,6 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1",
     "redux": "^4.0.4",
-    "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
@@ -54,6 +51,7 @@
     ]
   },
   "devDependencies": {
+    "redux-logger": "^3.0.6",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
     "esdoc": "^1.1.0",
