@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![TweetSearchingApp](https://vaibhavkatariya007.github.io/awesome-video-player/Twitter-screen-shot.png)
+![TweetSearchingApp](https://vaibhavkatariya007.github.io/project_3.png)
 
 ## Visit following link
 
